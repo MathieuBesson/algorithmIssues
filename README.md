@@ -1,3 +1,3 @@
 # AlgorithmIssues
 
-Algorithm issues i solve
+The algorithmic problems that I solve
